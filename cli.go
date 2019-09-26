@@ -8,7 +8,7 @@ import (
 	"log"
 	"os"
 
-	pb "github.com/Punam-Gaikwad/microservices/consignment-service/proto/consignment"
+	pb "github.com/Punam-Gaikwad/consignment-service/proto/consignment"
 	"google.golang.org/grpc"
 )
 
